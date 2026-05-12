@@ -11,7 +11,7 @@ public class TestDemo1 {
 		
 		
 		b =50;
-		s=20;
+		s =20;
 		i =60;
 		l = 100;
 		
