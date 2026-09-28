@@ -1,3 +1,4 @@
+
 package com.multithreading;
 
 class BookMyShow {
@@ -34,7 +35,6 @@ class BookMyShow {
 	int tickets;
 
 	public Customer(BookMyShow bms, String customerName, int tickets) {
-		super();
 		this.bms = bms;
 		CustomerName = customerName;
 		this.tickets = tickets;
